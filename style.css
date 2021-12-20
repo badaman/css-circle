@@ -1,0 +1,14 @@
+.pink{
+	background-color: #fc5a8d;
+}
+
+.purple{
+	background-color: rebeccapurple;
+}
+
+.circle{
+			border-radius:50%;
+			width:300px;
+			height:300px;
+			margin:15px;
+}
